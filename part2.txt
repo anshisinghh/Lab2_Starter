@@ -1,3 +1,17 @@
+1. greenEggsAndHam
+2. iHateCplusplus
+3. HTMLRocks
+4. JavaScriptRules
+5. SvelteBeatsReact
+6. ThisIsJS
+7. YouFoundMe
+8. coolcoolcool
+9. 2020sucked
+10. listenToTheBlackKeys
+11. a11yComesFirst
+12. iLoveWebDev
+
+
 <!-- Passcode for question 1: greenEggsAndHam -->
 <title data-question2="iHateCplusplus">Scavenger Hunt</title>
 <p hidden=""> Passcode for question 3: HTMLRocks</p>
